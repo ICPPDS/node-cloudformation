@@ -11,8 +11,8 @@
   
     GitHubUser:
       Type: String
-      Default: tqtezos
-      Description: Your team or username on GitHub.
+      Default: ICPPDS
+      Description: ICPPDS
   
     NodeGitHubRepo:
       Type: String
